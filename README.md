@@ -14,7 +14,7 @@ This repository contains a Python script that validates and evaluates arithmetic
 2. Run the script using Python.
 
     ```sh
-    python simple_calculator.py
+    python main.py
     ```
 
 3. Enter an arithmetic expression when prompted. For example: `3 + (4 * 5) - 7 / 2`.
